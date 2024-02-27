@@ -1,0 +1,12 @@
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Domain\bin\Debug\net6.0\Dotnet.Onion.Template.Domain.deps.json
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Domain\bin\Debug\net6.0\Dotnet.Onion.Template.Domain.dll
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Domain\bin\Debug\net6.0\Dotnet.Onion.Template.Domain.pdb
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Domain\obj\Debug\net6.0\Dotnet.Onion.Template.Domain.csproj.AssemblyReference.cache
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Domain\obj\Debug\net6.0\Dotnet.Onion.Template.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Domain\obj\Debug\net6.0\Dotnet.Onion.Template.Domain.AssemblyInfoInputs.cache
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Domain\obj\Debug\net6.0\Dotnet.Onion.Template.Domain.AssemblyInfo.cs
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Domain\obj\Debug\net6.0\Dotnet.Onion.Template.Domain.csproj.CoreCompileInputs.cache
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Domain\obj\Debug\net6.0\Dotnet.Onion.Template.Domain.dll
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Domain\obj\Debug\net6.0\refint\Dotnet.Onion.Template.Domain.dll
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Domain\obj\Debug\net6.0\Dotnet.Onion.Template.Domain.pdb
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Domain\obj\Debug\net6.0\ref\Dotnet.Onion.Template.Domain.dll

@@ -1,0 +1,15 @@
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\bin\Debug\net6.0\Dotnet.Onion.Template.Application.deps.json
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\bin\Debug\net6.0\Dotnet.Onion.Template.Application.dll
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\bin\Debug\net6.0\Dotnet.Onion.Template.Application.pdb
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\bin\Debug\net6.0\Dotnet.Onion.Template.Domain.dll
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\bin\Debug\net6.0\Dotnet.Onion.Template.Domain.pdb
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\obj\Debug\net6.0\Dotnet.Onion.Template.Application.csproj.AssemblyReference.cache
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\obj\Debug\net6.0\Dotnet.Onion.Template.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\obj\Debug\net6.0\Dotnet.Onion.Template.Application.AssemblyInfoInputs.cache
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\obj\Debug\net6.0\Dotnet.Onion.Template.Application.AssemblyInfo.cs
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\obj\Debug\net6.0\Dotnet.Onion.Template.Application.csproj.CoreCompileInputs.cache
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\obj\Debug\net6.0\Dotnet.Onion.Template.Application.csproj.CopyComplete
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\obj\Debug\net6.0\Dotnet.Onion.Template.Application.dll
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\obj\Debug\net6.0\refint\Dotnet.Onion.Template.Application.dll
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\obj\Debug\net6.0\Dotnet.Onion.Template.Application.pdb
+D:\C#\practice-api-master\practice-api-master\src\Dotnet.Onion.Template.Application\obj\Debug\net6.0\ref\Dotnet.Onion.Template.Application.dll
